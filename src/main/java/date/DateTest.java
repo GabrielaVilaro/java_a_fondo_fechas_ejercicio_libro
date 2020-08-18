@@ -1,3 +1,5 @@
+package date;
+
 import java.util.Scanner;
 
 public class DateTest {
